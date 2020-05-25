@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 961764786
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assetpack
+      Dependencies: {}
